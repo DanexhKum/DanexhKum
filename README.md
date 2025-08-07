@@ -28,11 +28,11 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a Computer Science student at FAST NUCES, Karachi.<br><br>
-- 🔭 I’m currently working on an <strong>AI-powered Autism Detection System</strong> using eye gaze and facial expression analysis.<br>
+I'm a Computer Science graduate from FAST NUCES, Karachi.<br><br>
+- 🔭 I have completed an AI-powered Autism Detection System using eye gaze and facial expression analysis.<br>
 - 👯 I’m looking to collaborate on impactful AI and web development projects.<br>
 - 🤝 I’m looking for help with real-world datasets for medical/behavioral AI.<br>
-- 🌱 I’m currently learning Deep Learning and Full-Stack web dev.<br>
+- 🌱 I’m currently Shopify, learning Deep Learning, and Full-Stack web dev.<br>
 - 📫 How to reach me: <a href="mailto:dhanesh.kum15@gmail.com">dhanesh.kum15@gmail.com</a><br>
 - 👨‍💻 All of my work is available at: <a href="https://github.com/DanexhKum">GitHub</a>
 </p>
@@ -42,6 +42,8 @@ I'm a Computer Science student at FAST NUCES, Karachi.<br><br>
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -60,9 +62,9 @@ I'm a Computer Science student at FAST NUCES, Karachi.<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
 ###
