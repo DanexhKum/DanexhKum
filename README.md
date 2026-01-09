@@ -31,7 +31,6 @@
 I'm a Computer Science graduate from FAST NUCES, Karachi.<br><br>
 - 🔭 I have completed an AI-powered Autism Detection System using eye gaze and facial expression analysis.<br>
 - 👯 I’m looking to collaborate on impactful AI and web development projects.<br>
-- 🤝 I’m looking for help with real-world datasets for medical/behavioral AI.<br>
 - 🌱 I’m currently Shopify, learning Deep Learning, and Full-Stack web dev.<br>
 - 📫 How to reach me: <a href="mailto:dhanesh.kum15@gmail.com">dhanesh.kum15@gmail.com</a><br>
 - 👨‍💻 All of my work is available at: <a href="https://github.com/DanexhKum">GitHub</a>
