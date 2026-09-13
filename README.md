@@ -72,6 +72,5 @@ I'm a backend engineer and Computer Science graduate from FAST NUCES, Karachi.<b
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanexhKum&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" alt="github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanexhKum&layout=compact&theme=dark&hide_border=false" height="180" alt="top languages" />
+      <img src="https://streak-stats.demolab.com?user=DanexhKum&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
