@@ -28,12 +28,13 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a Computer Science graduate from FAST NUCES, Karachi.<br><br>
-- 🔭 I have completed an AI-powered Autism Detection System using eye gaze and facial expression analysis.<br>
-- 👯 I’m looking to collaborate on impactful AI and web development projects.<br>
-- 🌱 I’m currently Shopify, learning Deep Learning, and Full-Stack web dev.<br>
-- 📫 How to reach me: <a href="mailto:dhanesh.kum15@gmail.com">dhanesh.kum15@gmail.com</a><br>
-- 👨‍💻 All of my work is available at: <a href="https://github.com/DanexhKum">GitHub</a>
+I'm a backend engineer and Computer Science graduate from FAST NUCES, Karachi.<br><br>
+  🔭 I'm currently the sole backend engineer at Mark Properties, owning the company's Node.js platform end to end.<br>
+  🛠️ My core stack is PHP, Node.js, and MySQL, with REST API design as the connective layer between them.<br>
+  🌱 I'm currently deepening TypeScript, Docker, AWS, and CI/CD.<br>
+  👯 I'm open to backend engineering roles and collaborations where ownership and technical depth matter.<br>
+  📫 How to reach me: <a href="mailto:dhanesh.kum15@gmail.com">dhanesh.kum15@gmail.com</a><br>
+  👨‍💻 All of my work is available at: <a href="https://github.com/DanexhKum">GitHub</a>
 </p>
 
 ###
